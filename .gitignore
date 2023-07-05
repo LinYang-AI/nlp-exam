@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 .DS_Store
 /NLP_exam_emotions_dataset/FNN_model/
+/NLP_exam_emotions_dataset/models
