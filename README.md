@@ -1,5 +1,15 @@
-# nlp-exam
+# NLP FINAL SUBMISSION MARIIA, LIN, MARTIN
 
-We have trained three models: fully connected neural networks, CNN with LSTM, and pretrained transformer.
+Hello we have run our entire notebook: 
 
-The fully connected neural networks give an accuracy up to 85% on the test dataset.
+"FINAL_NLP.ipynb" in Google Collab, and in total it takes about 20 minutes to train all the models. 
+
+You also would need to manually upload all of the files on Google Collab when running it. 
+
+However this won't be needed, because we have included all of our inputs. 
+
+Thank you very much. 
+
+Best Regards, 
+Mariia, Lin, Martin
+
